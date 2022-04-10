@@ -98,3 +98,7 @@ ul {
     line-height: 36px;
     color: white;
 }
+
+body {
+    background: rgba(0, 0, 0, 0.74);
+}
